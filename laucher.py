@@ -4,7 +4,7 @@ import subprocess
 import sys
 
 # URL do seu repositório raw no GitHub
-URL_CODE = "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/sistema_final.py"
+URL_CODE = "https://github.com/andersonmacielreal-max/programa/blob/main/sistema_final.py"
 ARQUIVO_LOCAL = "sistema_final.py"
 
 def verificar_atualizacao():
